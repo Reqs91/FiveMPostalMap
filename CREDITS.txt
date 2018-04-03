@@ -1,0 +1,5 @@
+Map was taken from Google Images and transformed to work with the ingame map. 
+
+TXARMYOWENS added the postal codes to the map.
+
+Thanks to SOLARFANOTM for making it into a resource to be Server Side!
